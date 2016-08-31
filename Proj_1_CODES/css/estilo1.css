@@ -1,0 +1,14 @@
+.menuitem {
+    border: 1px solid black;
+    width: 150px;
+    padding: 5px;
+    float: left;
+} 
+
+.imagem{
+	padding-left: 800px;
+}
+
+h1{
+	padding-left: 500px;
+}
