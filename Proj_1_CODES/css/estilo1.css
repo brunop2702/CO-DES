@@ -9,6 +9,24 @@
 	padding-left: 800px;
 }
 
+.imagem_menu{
+	width: 100px;
+	height: 50px;
+}
+
+.imagem_menu_sm{
+	width: 100px;
+	height: 50px;
+	padding-bottom: 12.5px;
+}
+
+
 h1{
 	padding-left: 500px;
+}
+
+h2{
+	font-size: 12.5px;
+	padding-right: 1px;
+	padding-right: -1000px;
 }
