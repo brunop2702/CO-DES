@@ -35,3 +35,9 @@ h2{
 	padding-right: 1px;
 	padding-right: -1000px;
 }
+
+.menuitem {
+    border: 1px solid black;
+    width: 150px;
+    padding: 5px;
+    float: left;
