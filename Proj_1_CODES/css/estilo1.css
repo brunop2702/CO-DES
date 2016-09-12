@@ -1,3 +1,8 @@
+body{
+	background-color: #ABC8FF;
+}
+
+
 .menuitem {
     border: 1px solid black;
     width: 150px;
@@ -27,7 +32,9 @@
 }
 
 h1{
-	padding-left: 500px;
+	text-align: center;
+	font-family: "Droid Serif";
+	font-size: 50px
 }
 
 h2{
@@ -41,3 +48,24 @@ h2{
     width: 150px;
     padding: 5px;
     float: left;
+}
+
+section{
+	width: 100%;
+	max-width: 1600px;
+	padding: -1rem;
+	line-height: 60px;
+}
+
+
+.cores {
+	color:#ABC8FF ;
+	background-color: #073763;
+}
+
+.center {
+	float:none;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
