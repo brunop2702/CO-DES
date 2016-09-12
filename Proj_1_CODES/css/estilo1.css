@@ -96,11 +96,11 @@ h2{
 
 .comentario{
 	float: bottom;
-	padding-left: 2000px;
-    border: 1px dotted black;
-    width: 1200px;
-    height: 175px;
-    padding: 5px;
+	padding-left: 2px;
+	padding-top: 50px;
+    border: 1px dotted;
+    width: 500px;
+    height: 500px;
     font-size: 20px;
     background-image: url("planodefundo.jpg");
     background-repeat: repeat;
