@@ -106,3 +106,16 @@ h2{
     background-repeat: repeat;
 
 }
+
+.img_pag_projeto{
+	padding-left: 100px;
+	height: 300px;
+	width: 400px;
+}
+
+
+
+h1{
+	color: white;
+	padding: 20px 250px 20px 400px;
+}
