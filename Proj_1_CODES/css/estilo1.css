@@ -35,7 +35,7 @@ body{
 h1{
 	text-align: center;
 	font-family: "Droid Serif";
-	font-size: 50px
+	font-size: 45px
 }
 
 h2{
@@ -70,14 +70,18 @@ h2{
 <<<<<<< HEAD
 }
 
-section{
+nav{
 	width: 100%;
-	max-width: 1600px;
+	max-width: auto;
 	padding: -1rem;
-	line-height: 60px;
+	line-height: auto;
 }
-
-
+footer{
+	width: 100%;
+	max-width: auto;
+	padding: -1rem;
+	line-height: auto;
+}
 .cores {
 	color:#ABC8FF ;
 	background-color: #073763;
