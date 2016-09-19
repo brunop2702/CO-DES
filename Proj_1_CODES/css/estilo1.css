@@ -43,7 +43,7 @@ h1{
 
 
 h2{
-	text-align: center;
+	text-align: left;
 	font-family: 'Baloo Tamma';
 	font-size: 45px;
 }
@@ -76,7 +76,7 @@ nav{
 footer{
 	width: 100%;
 	max-width: auto;
-	padding: 1rem;
+	padding: 0rem;
 	line-height: auto;
 }
 .cores {
@@ -92,12 +92,41 @@ footer{
 }
 .right {
 	float:right;
-	margin-right:0;
-	margin-left:10px;
+	margin-top:5px;
+	margin-right:5px;
+	margin-left:5px;
 	margin-bottom:5px;
 }
 
+.left {
+	float:left; 
+	margin-top:5px;
+	margin-left:5px; 
+	margin-right:5px; 
+	margin-bottom:5px;
+}
+.container {
+    max-width:82px;
+    max-height:40px;
+    width: auto;
+    height: auto;
+}
 
+.pontilhado{ 
+border-style: dotted; 
+border-width: 1px; 
+border-color: black; 
+background-color: #cc3366; 
+font-family: verdana, arial; 
+font-size: 10pt; 
+text-align: auto;
+word-wrap: break-word;
+}
+
+section{
+width: 500px;
+max-height: auto;
+}
 a:link {text-decoration: none;color: #FFFFF1}
 a:active {text-decoration: none;}
 a:visited {text-decoration: none;color: #FFFFFF}
