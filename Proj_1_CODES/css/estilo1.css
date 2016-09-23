@@ -51,10 +51,19 @@ h2{
 h3{
 	text-align: center;
 	color: #FFFFFF;
+	font-family: 'Baloo Tamma';
 }
 h4{
 	text-align: left;
 	color: #FFFFFF;
+	font-family: 'Baloo Tamma';
+
+}
+
+h5{
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Baloo Tamma';
 }
 
 .descricao {
@@ -125,7 +134,7 @@ footer{
 border-style: dotted; 
 border-width: 1px; 
 border-color: #073763; 
-background-color: #073763;
+background-color: #073760;
 color: white; 
 font-family: verdana, arial; 
 font-size: 10pt;
